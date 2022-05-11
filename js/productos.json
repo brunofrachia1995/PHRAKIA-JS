@@ -1,0 +1,51 @@
+[
+    {
+        "imagen":"../img/recital.jpeg",
+        "nombre":"RECITALES",
+        "tipo":"Duración: 3 semanas",
+        "description":"Potenciá tus fotos en eventos artísticos masivos",
+        "precio":"3500",
+        "id":"1"
+    },
+    {
+        "imagen":"../img/social.jpeg",
+        "nombre":"SOCIALES",
+        "tipo":"Duración: 4 semanas",
+        "description":"Aprendé técnicas fundamentales para eventos sociales",
+        "precio":"5000",
+        "id":"2"
+    },
+    {
+        "imagen":"../img/analog3.jpeg",
+        "nombre":"ILUMINACIÓN INTEGRAL",
+        "tipo":"Duración: 8 semanas",
+        "description":"Adquirí conocimientos claves de iluminación",
+        "precio":"10000",
+        "id":"3"
+    },
+    {
+        "imagen":"../img/byn8.jpeg",
+        "nombre":"ANALÓGICA",
+        "tipo":"Duración: 12 semanas",
+        "description":"Convertite en un experto con cámara analógica",
+        "precio":"12500",
+        "id":"4"
+    },
+    {
+        "imagen":"../img/byn7.jpeg",
+        "nombre":"ESTENOPEICA",
+        "tipo":"Duración: 2 semanas",
+        "description":"Conocé todos los secretos de la Fotografía Estenopeica",
+        "precio":"2000",
+        "id":"5"
+    },
+    {
+        "imagen":"../img/analog2.jpeg",
+        "nombre":"FOTOPERIODISMO",
+        "tipo":"Duración: 16 semanas",
+        "description":"Salí a la calle a capturar los hechos cotidianos con tu cámara",
+        "precio":"20000",
+        "id":"6"
+    }
+    
+]
